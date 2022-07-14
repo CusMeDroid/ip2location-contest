@@ -2,7 +2,7 @@
 Search Website From Domain And Get IP Info With API By IP2Location.
 
 ## Demo
-*[ip2location](http://cusmedroid.is-best.net/ip2location/)*
+*[ip2location-contest](http://cusmedroid.is-best.net/ip2location-contest/)*
 
 # Intro
 I created the website info to track where the host is using php, html, css & js language, by retrieving data using API from IP2Location.
