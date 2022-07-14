@@ -17,3 +17,23 @@ then see the response to proceed to the data store as history
 > isset($data['response']) == 'OK'
 
 On the database I use the domain name as unique so as not to overwrite with the same file name.
+> Settings your configs & db
+
+You have table me_check with contents
+> domain
+
+> ip_address
+
+> country_code
+
+> country_name
+
+> region_name
+
+> city_name
+
+> latitude
+
+> longitude
+
+> me_ip
